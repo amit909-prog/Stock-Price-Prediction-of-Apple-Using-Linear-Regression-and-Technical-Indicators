@@ -19,9 +19,7 @@ This repository features a robust quantitative analysis project focused on predi
 * [✅ Model Comparison and Evaluation](#model-comparison-and-evaluation)
 * [📌 Conclusion](#conclusion)
 * [⚠️ Limitations & Future Improvements](#limitations--future-improvements)
-* [How to Run](#how-to-run)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ---
 
