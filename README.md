@@ -231,47 +231,6 @@ While the project provides valuable insights, it's crucial to acknowledge its li
 * **Volatility Forecasting:** Develop dedicated models for predicting volatility, as volatility is a key input for options pricing and risk management.
 * **Risk Management & Portfolio Optimization:** Extend the project to include components for portfolio optimization based on predicted returns and risks, and implement backtesting strategies.
 
-## How to Run
-
-To run this project and reproduce the analysis, follow these steps:
-
-1.  **Prerequisites:**
-    * Ensure **Python 3.x** is installed on your system.
-    * You will need a Python environment manager (like `conda` or `venv`) and a Jupyter environment (e.g., **Jupyter Notebook** or **JupyterLab**) to run the `.ipynb` file.
-2.  **Install Libraries:**
-    * Open your terminal or command prompt.
-    * It's recommended to create a virtual environment first to manage dependencies:
-        ```bash
-        python -m venv stock_env
-        # On Windows:
-        .\stock_env\Scripts\activate
-        # On macOS/Linux:
-        source stock_env/bin/activate
-        ```
-    * Once your virtual environment is activated, install all necessary Python libraries by running:
-        ```bash
-        pip install yfinance pandas numpy scikit-learn statsmodels matplotlib seaborn
-        ```
-3.  **Clone the Repository:**
-    * Clone this GitHub repository to your local machine. Replace `[Your GitHub Repo URL Here]` with the actual URL of your repository:
-        ```bash
-        git clone [Your GitHub Repo URL Here]
-        ```
-    * Navigate into the cloned repository directory:
-        ```bash
-        cd [Your Repo Name]
-        ```
-        *(Replace `[Your Repo Name]` with the actual name of your cloned repository directory, e.g., `Apple-Stock-Prediction-Regression`)*
-4.  **Open Jupyter Notebook:**
-    * From within the project directory in your terminal (with your virtual environment activated), launch Jupyter Notebook:
-        ```bash
-        jupyter notebook
-        ```
-5.  **Navigate and Run:**
-    * In the Jupyter Notebook interface that opens automatically in your web browser, navigate to the project folder.
-    * Open the `rgmodel.ipynb` file.
-    * You can run all cells sequentially by going to `Cell > Run All` in the Jupyter menu. This will execute the entire analysis, model training, evaluation, and generate the plots.
-
 
 
 
