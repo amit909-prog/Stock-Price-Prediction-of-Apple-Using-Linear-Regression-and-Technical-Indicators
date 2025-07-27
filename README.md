@@ -272,23 +272,6 @@ To run this project and reproduce the analysis, follow these steps:
     * Open the `rgmodel.ipynb` file.
     * You can run all cells sequentially by going to `Cell > Run All` in the Jupyter menu. This will execute the entire analysis, model training, evaluation, and generate the plots.
 
-## Contributing
 
-Contributions are highly valued and welcome! If you have suggestions for improvements, new features, bug fixes, or alternative modeling approaches, please feel free to:
 
-* **Open an Issue:** Describe the bug, enhancement, or question you have. Provide as much detail as possible, including steps to reproduce bugs or clear descriptions for new features.
-* **Submit a Pull Request:**
-    1.  Fork the repository.
-    2.  Create a new branch for your feature or bug fix (`git checkout -b feature/your-feature-name`).
-    3.  Make your changes and ensure the code adheres to the project's style.
-    4.  Write clear and concise commit messages.
-    5.  Push your branch (`git push origin feature/your-feature-name`).
-    6.  Open a pull request from your forked repository to the main branch.
 
-Your contributions help make this project better and are greatly appreciated!
-
-## License
-
-This project is licensed under the **MIT License**. This is a permissive open-source license, meaning you are free to use, modify, and distribute the code for both commercial and non-commercial purposes, provided you include the original copyright and license notice.
-
-For the full text of the license, please refer to the `LICENSE` file in this repository.
